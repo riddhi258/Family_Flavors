@@ -66,5 +66,4 @@ Start the backend server with node index.js.
 
 Start the frontend development server with npm start.
 <br>
-# author-Riddhi Upadhyay
-#  <br> krishna sharma
+# author-Riddhi Upadhyay <br> krishna sharma
