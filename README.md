@@ -55,4 +55,19 @@ Family Flavors provides a seamless platform for users to explore a variety of fo
 - **About.js, Cancel.js, Cart.js, Contact.js, Home.js, Login.js, Menu.js, Newproduct.js, Signup.js, Success.js**: Individual pages for various functionalities and content.
 
 ##### Redux
+
+- **index.js, productSlide.js, userSlice.js**: Redux setup and slices for managing application state.
+
+##### Utility
+
+- **ImagetoBase64.js**: Utility function for converting images to base64 format.
+
+## Getting Started
+To run the project locally, follow these steps:
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+
+3. Start the backend server with `node index.js`.
+4. Start the frontend development server with `npm start`.
 # author-Riddhi Upadhyay <br> krishna sharma
